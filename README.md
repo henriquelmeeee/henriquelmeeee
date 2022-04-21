@@ -2,7 +2,7 @@
 ```python
 print('Sou um desenvolvedor Python')
 ```
-```console
+```bash
 root@henriquelmeeee:~$ pip install Flask
 ```
 ```python
