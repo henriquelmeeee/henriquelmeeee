@@ -7,13 +7,6 @@ print('Sou um desenvolvedor Python back end')
 ```
 - 🌱 I’m currently learning ... HTML, CSS & JS
 - 🤔 I’m looking for help with ... Python
-
-
-- [x] Aprendi Pyhon
-- [x] Aprendi HTML
-- [ ] Aprendi CSS
-- [ ] Aprendi JS
-
 <!--
 **henriquelmeeee/henriquelmeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
