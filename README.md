@@ -3,7 +3,7 @@
 print('Sou um desenvolvedor Python back end')
 ```
 ```html
-<h1>e sei um pouco de Front End</h1>
+<p>e sei um pouco de Front End</p>
 ```
 - 🌱 I’m currently learning ... HTML, CSS & JS
 - 🤔 I’m looking for help with ... Python
