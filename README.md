@@ -1,9 +1,8 @@
 ### Hello, World! 👋
 
 ```python
-print('Sou um desenvolvedor Python back end.')
+print('Sou um desenvolvedor Python back end')
 ```
-
 ```html
 <h1>e sei um pouco de Front End!</h1>
 ```
