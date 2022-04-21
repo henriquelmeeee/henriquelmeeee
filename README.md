@@ -1,14 +1,13 @@
-<strong>
-  ### Hello, World! 👋
-  ###### Meu nome é henrique
-</strong>
-
+### Hello, World! 👋
 ```python
 print('Sou um desenvolvedor Python back end')
 ```
 ```html
-<h1>e sei um pouco de Front End!</h1>
+<h1>e sei um pouco de Front End</h1>
 ```
+- 🌱 I’m currently learning ... HTML, CSS & JS
+- 🤔 I’m looking for help with ... Python
+
 
 <!--
 **henriquelmeeee/henriquelmeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
