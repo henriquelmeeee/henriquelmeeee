@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, World! 👋
+
+```python
+print('Sou um desenvolvedor Python back end (sim, isso existe) e sei um pouco de front end.')
+```
 
 <!--
 **henriquelmeeee/henriquelmeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
