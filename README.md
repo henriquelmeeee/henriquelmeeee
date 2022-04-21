@@ -13,7 +13,7 @@ print('e desenvolvo back end com o framework Flask')
 <p>também sei um pouco de Front End</p>
 ```
 - 🌱 I’m currently learning ... HTML, CSS & JS
-- 🤔 I’m looking for help with ... Python
+- 💬 Ask me about ... Python
 <!--
 **henriquelmeeee/henriquelmeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
