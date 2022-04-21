@@ -10,7 +10,7 @@ from flask import Flask
 print('e desenvolvo back end com o framework Flask')
 ```
 ```html
-<p>e sei um pouco de Front End</p>
+<p>também sei um pouco de Front End</p>
 ```
 - 🌱 I’m currently learning ... HTML, CSS & JS
 - 🤔 I’m looking for help with ... Python
