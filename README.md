@@ -16,9 +16,7 @@ print('e desenvolvo back end com o framework Flask')
 - 💬 Ask me about ... Python
 <details>
   <summary>Simulador de terminal</summary>
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-  <script src="https://unpkg.com/jquery.terminal/js/jquery.terminal.min.js"></script>
-  <link rel="stylesheet" href="https://unpkg.com/jquery.terminal/css/jquery.terminal.min.css"/>
+  <iframe src="http://youtube.com"></iframe>
 </details>
 
 <!--
