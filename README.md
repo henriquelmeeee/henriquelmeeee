@@ -14,11 +14,6 @@ print('e desenvolvo back end com o framework Flask')
 ```
 - 🌱 I’m currently learning ... HTML, CSS & JS
 - 💬 Ask me about ... Python
-<details>
-  <summary>Simulador de terminal</summary>
-  <iframe src="http://youtube.com"></iframe>
-</details>
-
 <!--
 **henriquelmeeee/henriquelmeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
