@@ -1,9 +1,5 @@
 ### Hello, World! 👋
 
-
-
-
-  <br>
  ```python
  print('Sou um desenvolvedor Python')
  ```
@@ -23,6 +19,7 @@
  
   - 🌱 I’m currently learning ... HTML, CSS & JS
   - 💬 Ask me about ... Python
+
 
 
 ![](https://komarev.com/ghpvc/?username=henriquelmeeee) (desde 02/05/2022)
