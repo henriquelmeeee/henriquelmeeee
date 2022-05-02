@@ -6,6 +6,12 @@
 teste
 </details>
 
+<details>
+<summary>Inglês</summary>
+<br>
+teste
+</details>
+
 ```python
 print('Sou um desenvolvedor Python')
 ```
