@@ -1,17 +1,30 @@
 ### Hello, World! 👋
 
+<details>
+<summary>English</summary>
+<br>
+```python
+print('I'm a Python Developer')
+```
+```console
+root@henriquelmeeee:~$ pip install Flask
+```
+```python
+from flask import Flask
+print('and I develop with Flask, a Python Micro Framework for web developer')
+```
+```html
+<p>também sei um pouco de Front End</p>
+```
+- 🌱 I’m currently learning ... HTML, CSS & JS
+- 💬 Ask me about ... Python
+
+</details>
+
+
 <details open>
 <summary>Português</summary>
 <br>
-teste
-</details>
-
-<details>
-<summary>Inglês</summary>
-<br>
-teste
-</details>
-
 ```python
 print('Sou um desenvolvedor Python')
 ```
@@ -28,6 +41,7 @@ print('e desenvolvo back end com o framework Flask')
 - 🌱 I’m currently learning ... HTML, CSS & JS
 - 💬 Ask me about ... Python
 
+</details>
 
 ![](https://komarev.com/ghpvc/?username=henriquelmeeee)
 <!--
