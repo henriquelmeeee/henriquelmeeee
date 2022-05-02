@@ -7,16 +7,16 @@
  ```python
  print('Sou um desenvolvedor Python')
  ```
-  ```console
-  root@henriquelmeeee:~$ pip install Flask
-  ```
-  ```python
-  from flask import Flask
-  print('e desenvolvo back end com o framework Flask')
-  ```
-  ```html
-  <p>também sei um pouco de Front End</p>
-  ```
+ ```console
+ root@henriquelmeeee:~$ pip install Flask
+ ```
+ ```python
+ from flask import Flask
+ print('e desenvolvo back end com o framework Flask')
+ ```
+ ```html
+ <p>também sei um pouco de Front End</p>
+ ```
   - 🌱 I’m currently learning ... HTML, CSS & JS
   - 💬 Ask me about ... Python
 
