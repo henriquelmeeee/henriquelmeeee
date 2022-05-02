@@ -24,26 +24,26 @@ print('and I develop with Flask, a Python Micro Framework for web developer')
 
 <details open>
 <summary>Português</summary>
-<br>
-```python
-print('Sou um desenvolvedor Python')
-```
-```console
-root@henriquelmeeee:~$ pip install Flask
-```
-```python
-from flask import Flask
-print('e desenvolvo back end com o framework Flask')
-```
-```html
-<p>também sei um pouco de Front End</p>
-```
-- 🌱 I’m currently learning ... HTML, CSS & JS
-- 💬 Ask me about ... Python
+  <br>
+  ```python
+  print('Sou um desenvolvedor Python')
+  ```
+  ```console
+  root@henriquelmeeee:~$ pip install Flask
+  ```
+  ```python
+  from flask import Flask
+  print('e desenvolvo back end com o framework Flask')
+  ```
+  ```html
+  <p>também sei um pouco de Front End</p>
+  ```
+  - 🌱 I’m currently learning ... HTML, CSS & JS
+  - 💬 Ask me about ... Python
 
 </details>
 
-![](https://komarev.com/ghpvc/?username=henriquelmeeee)
+![](https://komarev.com/ghpvc/?username=henriquelmeeee) (desde 02/05/2022)
 <!--
 **henriquelmeeee/henriquelmeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
