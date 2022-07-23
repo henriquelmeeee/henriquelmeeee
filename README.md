@@ -13,11 +13,11 @@
  print('e desenvolvo back end com o framework Flask')
  ```
  
- ```html
- <p>também sei um pouco de Front End</p>
+ ```php
+echo "aprendendo PHP!"
  ```
  
-  - 🌱 I’m currently learning ... HTML, CSS & JS
+  - 🌱 I’m currently learning ... PHP8
   - 💬 Ask me about ... Python
 
 
