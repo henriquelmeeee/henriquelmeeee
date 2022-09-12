@@ -14,7 +14,7 @@
 echo "aprendendo PHP!"
  ```
  ```java
- System.out.println("E também Java");
+ System.out.println("e também Java");
  ```
 ![](https://komarev.com/ghpvc/?username=henriquelmeeee) (desde 02/05/2022)
 <!--
