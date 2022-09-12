@@ -16,12 +16,6 @@
  ```php
 echo "aprendendo PHP!"
  ```
- 
-  - 🌱 I’m currently learning ... PHP8
-  - 💬 Ask me about ... Python
-
-
-
 ![](https://komarev.com/ghpvc/?username=henriquelmeeee) (desde 02/05/2022)
 <!--
 **henriquelmeeee/henriquelmeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
