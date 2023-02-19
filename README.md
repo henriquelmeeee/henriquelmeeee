@@ -4,7 +4,7 @@
  print('Sou um desenvolvedor Python')
  ```
  ```console
- root@henriquelmeeee:~$ pip install Flask
+ root@henriquelmeeee:~# pip install Flask
  ``` 
  ```python
  from flask import Flask
