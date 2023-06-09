@@ -1,21 +1,5 @@
 ### Hello, World! 👋
 
- ```python
- print('Sou um desenvolvedor Python')
- ```
- ```console
- root@henriquelmeeee:~# pip install Flask
- ``` 
- ```python
- from flask import Flask
- print('e desenvolvo back end com o framework Flask')
- ```
- ```php
-echo "aprendendo PHP!"
- ```
- ```java
- System.out.println("e também Java");
- ```
 ![](https://komarev.com/ghpvc/?username=henriquelmeeee) (desde 02/05/2022)
 <!--
 **henriquelmeeee/henriquelmeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
